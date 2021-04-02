@@ -3,7 +3,7 @@
 
 int main() {
 
-  // Create new book object -> enter information -> add into vector
+  // Create new book object -> enter information -> add into vector.
 
     try {
         while (u_continue) { // While loop for the core main menu

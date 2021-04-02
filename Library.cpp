@@ -54,7 +54,7 @@ Book::Book(string c_isbn, string c_title, string c_author, int c_copyr_yr, char 
     copyr_yr = c_copyr_yr;
     checkin = c_checkin;
     genre = c_genre;
-    // Validate the data for each of these data members and throw error if are not valid
+    // Validate the data for each of these data members and throw error if are not valid.
 }
 
 Book::Book() {

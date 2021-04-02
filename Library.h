@@ -73,7 +73,7 @@ private:
 
 
 // Core Functions
-extern Genre genreCheck(const string& s);
+extern Genre genreCheck(const string& s); // Takes the users string input, returns it based on the enum class int # then converts into string
 extern void genrePrint(Genre g);
 extern void Begin();
 extern void CheckOut();
